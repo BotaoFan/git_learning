@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Check stage.
 Creating a new branch.
 Creating a new new branch.
-Test of merge & conflict.
+Test merge and conflict.
