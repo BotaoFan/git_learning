@@ -8,3 +8,4 @@ Test merge and conflict.
 This is a bug. Now this bug is fixed.
 Add in dev branch
 Add feature1
+Add feature2
