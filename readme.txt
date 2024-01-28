@@ -6,3 +6,4 @@ Creating a new branch.
 Creating a new new branch.
 Test merge and conflict.
 This is a bug. Now this bug is fixed.
+xixixi
